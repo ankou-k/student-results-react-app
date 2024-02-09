@@ -8,8 +8,11 @@ This app uses React.JS, node, sqlite3, express, cors, and Bootstrap.
 ## To Run the App:
 in the terminal, run the following 3 commands:
 npm install --legacy-peer-deps
+
 node server/server.js
+
 npm start
 
 the backend port will run on localhost:4001
+
 the frontend port will run on localhost:3000
